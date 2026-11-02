@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=header&text=Bem-vindo(a)%20ao%20meu%20perfil!&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=150&section=header&text=OIOIIOII,%20eu%20sou%20a%20Anna!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
   
   <br>
   
@@ -16,8 +16,6 @@
   
   ## 🌸 Sobre mim 🌸
   
-  OIOIIOII eu sou a Anna! 🌸
-  <br><br>
   Sou apaixonada por programação e amo fazer bots para o Discord.
   <br>
   <i>(Se tiver precisando de algum, só chamar na DM do Discord! 💌)</i>
@@ -25,28 +23,38 @@
   
   **Coisas que eu amo:**
   <br>
-  ![Gatinhos](https://img.shields.io/badge/Gatinhos-fff0f5?style=for-the-badge&logo=github&logoColor=black)
-  ![Ursos](https://img.shields.io/badge/Ursos-fff0f5?style=for-the-badge&logo=polar&logoColor=black)
-  ![Flores](https://img.shields.io/badge/Flores-fff0f5?style=for-the-badge&logo=leaf&logoColor=black)
-  ![Hello_Kitty](https://img.shields.io/badge/Hello_Kitty-fff0f5?style=for-the-badge&logo=heart&logoColor=black)
+  ![Gatinhos](https://img.shields.io/badge/Gatinhos-ff69b4?style=for-the-badge&logo=github&logoColor=white)
+  ![Ursos](https://img.shields.io/badge/Ursos-ff69b4?style=for-the-badge&logo=polar&logoColor=white)
+  ![Flores](https://img.shields.io/badge/Flores-ff69b4?style=for-the-badge&logo=leaf&logoColor=white)
+  ![Hello_Kitty](https://img.shields.io/badge/Hello_Kitty-ff69b4?style=for-the-badge&logo=heart&logoColor=white)
   
 </div>
 
 <br>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&width=100%" />
+</div>
+<br>
+
+<div align="center">
   
   ## 🧸 Linguagens 🧸
   
-  ![JavaScript](https://img.shields.io/badge/JavaScript-fff0f5?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-fff0f5?style=for-the-badge&logo=typescript&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-fff0f5?style=for-the-badge&logo=node.js&logoColor=black)
-  ![Python](https://img.shields.io/badge/Python-fff0f5?style=for-the-badge&logo=python&logoColor=black)
-  ![Discord.js](https://img.shields.io/badge/Discord.js-fff0f5?style=for-the-badge&logo=discord&logoColor=black)
-  ![Discord.py](https://img.shields.io/badge/Discord.py-fff0f5?style=for-the-badge&logo=discord&logoColor=black)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-ffb6c1?style=for-the-badge&logo=typescript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-ffb6c1?style=for-the-badge&logo=node.js&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=black)
+  ![Discord.js](https://img.shields.io/badge/Discord.js-ffb6c1?style=for-the-badge&logo=discord&logoColor=black)
+  ![Discord.py](https://img.shields.io/badge/Discord.py-ffb6c1?style=for-the-badge&logo=discord&logoColor=black)
 
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&width=100%" />
+</div>
 <br>
 
 <div align="center">
@@ -61,6 +69,6 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=100&section=footer" />
   
 </div>
