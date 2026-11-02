@@ -5,7 +5,7 @@
   <br>
   
   <a href="https://discord.com/users/1549214817737515161">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-ffb6c1?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   
 </div>
@@ -16,11 +16,13 @@
   
   ## 🌸 Sobre mim 🌸
   
-  🎀 Desenvolvedora de bots fofos para o Discord (source privada 🤫)
+  🎀 Desenvolvedora de bots para o Discord (auto quest, moderação e qualquer outra ideia!)
   <br>
-  🐆 Apaixonado(a) por design, gatinhos e código
+  💌 Interessados? É só me chamar no Discord!
   <br>
-  ✨ Sempre criando algo novo e cute
+  🐆 Apaixonada por gatinhos, ursinhos, flores e Hello Kitty
+  <br>
+  ✨ Sempre criando projetos aleatórios e fofos
   
 </div>
 
@@ -43,7 +45,7 @@
 
   ## 🎀 Hello Kitty 🎀
   
-  <img src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif" alt="Hello Kitty Fofa" width="350" />
+  <img src="hellokitty.gif" alt="Hello Kitty Fofa" width="350" />
 
 </div>
 
