@@ -16,7 +16,7 @@
   
   ## 🌸 Sobre mim 🌸
   
-  🎀 Desenvolvedor(a) de bots fofos para o Discord (source privada 🤫)
+  🎀 Desenvolvedora de bots fofos para o Discord (source privada 🤫)
   <br>
   🐆 Apaixonado(a) por design, gatinhos e código
   <br>
