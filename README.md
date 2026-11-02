@@ -16,13 +16,19 @@
   
   ## 🌸 Sobre mim 🌸
   
-  🎀 Desenvolvedora de bots para o Discord (auto quest, moderação e qualquer outra ideia!)
+  OIOIIOII eu sou a Anna! 🌸
+  <br><br>
+  Sou apaixonada por programação e amo fazer bots para o Discord.
   <br>
-  💌 Interessados? É só me chamar no Discord!
+  <i>(Se tiver precisando de algum, só chamar na DM do Discord! 💌)</i>
+  <br><br>
+  
+  **Coisas que eu amo:**
   <br>
-  🐆 Apaixonada por gatinhos, ursinhos, flores e Hello Kitty
-  <br>
-  ✨ Sempre criando projetos aleatórios e fofos
+  ![Gatinhos](https://img.shields.io/badge/Gatinhos-fff0f5?style=for-the-badge&logo=github&logoColor=black)
+  ![Ursos](https://img.shields.io/badge/Ursos-fff0f5?style=for-the-badge&logo=polar&logoColor=black)
+  ![Flores](https://img.shields.io/badge/Flores-fff0f5?style=for-the-badge&logo=leaf&logoColor=black)
+  ![Hello_Kitty](https://img.shields.io/badge/Hello_Kitty-fff0f5?style=for-the-badge&logo=heart&logoColor=black)
   
 </div>
 
