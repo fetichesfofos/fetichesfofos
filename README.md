@@ -51,9 +51,9 @@
 
 <div align="center">
 
-  ## 🎀 Hello Kitty 🎀
-  
-  <img src="hellokitty.gif" alt="Hello Kitty Fofa" width="350" />
+  <img src="hellokitty.gif" alt="Hello Kitty 1" width="180" />
+  <img src="hellokitty.gif" alt="Hello Kitty 2" width="180" />
+  <img src="hellokitty.gif" alt="Hello Kitty 3" width="180" />
 
 </div>
 
