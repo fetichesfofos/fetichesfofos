@@ -30,7 +30,7 @@
 
 <div align="center">
   
-  ## 🧸 Linguagens e Tecnologias 🧸
+  ## 🧸 Linguagens 🧸
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-fff0f5?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/TypeScript-fff0f5?style=for-the-badge&logo=typescript&logoColor=black)
@@ -38,9 +38,6 @@
   ![Python](https://img.shields.io/badge/Python-fff0f5?style=for-the-badge&logo=python&logoColor=black)
   ![Discord.js](https://img.shields.io/badge/Discord.js-fff0f5?style=for-the-badge&logo=discord&logoColor=black)
   ![Discord.py](https://img.shields.io/badge/Discord.py-fff0f5?style=for-the-badge&logo=discord&logoColor=black)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-fff0f5?style=for-the-badge&logo=mongodb&logoColor=black)
-  ![MySQL](https://img.shields.io/badge/MySQL-fff0f5?style=for-the-badge&logo=mysql&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-fff0f5?style=for-the-badge&logo=git&logoColor=black)
 
 </div>
 
